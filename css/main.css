@@ -1,0 +1,11 @@
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 2rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border: solid 1px #000;
+}
